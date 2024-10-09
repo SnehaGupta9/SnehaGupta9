@@ -1,16 +1,12 @@
-## Hi there 👋
+Ciao there 👋 Sneha Gupta
 
-<!--
-**SnehaGupta9/SnehaGupta9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently student in Jiwaji University 
+- 🌱 I’m currently learning Java with  Dsa and Frontend stuff
+- 👯 I’m looking to collaborate on Github Projects
+- 🤔 I’m looking for help with Java 
+- 💬 Ask me about technical stuff
+- 📫 How to reach me: gguptasneha2810@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm lazy  so i find  the shortest way to solve problems 
+  
