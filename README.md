@@ -8,5 +8,4 @@ Ciao there 👋 Sneha Gupta
 - 💬 Ask me about technical stuff
 - 📫 How to reach me: gguptasneha2810@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm lazy  so i find  the shortest way to solve problems 
-  
+- ⚡ Fun fact : I spend most of my time listening to music 
